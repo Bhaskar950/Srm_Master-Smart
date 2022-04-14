@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+    padding: 1rem;
+    background-color: hotpink;
+    color: ivory;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 2rem;
+    
+}
+
+.time {
+    text-align: center;
+    margin: 25%;
+}
+ h1 {
+    font-size: 5rem;
+    color:lightgoldenrodyellow
+}
+
+*{
+    background-color: lightblue;
+}
